@@ -1,4 +1,4 @@
-### Expense Tracker
+# Expense Tracker
 This application allows the users to track their expanses. 
 
 ## Technology Used
